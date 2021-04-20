@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/panipoori/static/css/main.d79b7ac2.chunk.css",
-    "main.js": "/panipoori/static/js/main.4b054b1a.chunk.js",
-    "main.js.map": "/panipoori/static/js/main.4b054b1a.chunk.js.map",
+    "main.css": "/panipoori/static/css/main.7f0d3340.chunk.css",
+    "main.js": "/panipoori/static/js/main.1989906c.chunk.js",
+    "main.js.map": "/panipoori/static/js/main.1989906c.chunk.js.map",
     "runtime-main.js": "/panipoori/static/js/runtime-main.d61696f0.js",
     "runtime-main.js.map": "/panipoori/static/js/runtime-main.d61696f0.js.map",
     "static/css/2.643056c5.chunk.css": "/panipoori/static/css/2.643056c5.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.68a5e3d1.chunk.js.map": "/panipoori/static/js/3.68a5e3d1.chunk.js.map",
     "index.html": "/panipoori/index.html",
     "static/css/2.643056c5.chunk.css.map": "/panipoori/static/css/2.643056c5.chunk.css.map",
-    "static/css/main.d79b7ac2.chunk.css.map": "/panipoori/static/css/main.d79b7ac2.chunk.css.map",
+    "static/css/main.7f0d3340.chunk.css.map": "/panipoori/static/css/main.7f0d3340.chunk.css.map",
     "static/js/2.bfc7176c.chunk.js.LICENSE.txt": "/panipoori/static/js/2.bfc7176c.chunk.js.LICENSE.txt",
     "static/media/slick-theme.css": "/panipoori/static/media/slick.c94f7671.ttf"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.d61696f0.js",
     "static/css/2.643056c5.chunk.css",
     "static/js/2.bfc7176c.chunk.js",
-    "static/css/main.d79b7ac2.chunk.css",
-    "static/js/main.4b054b1a.chunk.js"
+    "static/css/main.7f0d3340.chunk.css",
+    "static/js/main.1989906c.chunk.js"
   ]
 }
